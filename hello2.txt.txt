@@ -1,0 +1,4 @@
+print2
+{
+  hello2;
+}
